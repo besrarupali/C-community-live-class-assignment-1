@@ -1,0 +1,37 @@
+                       C Language Live Community Classes Assignment 1
+
+1. Why do computers understand only binary language?
+answer. Binary language consists of 1s and 0s.And computer consists of many switches,it can be state of 'off' and 'on'.So, whenever we give         input to the our system it takes in terms of 0s(off) and 1s(on).0s represent the 'off' state of the switches and 1s represent the         'on' state of the switches.Also hardware of the system is eassy to represent by the binary language.
+
+2. What is the full form of IDE?
+answer. Integrated Development Environment.
+
+3. What is the difference between a text editor and a code editor?
+answer. A text editor simply allows us to write and edit test ,it doesn't has anything in-built to help us to code whereas a code editor is         also a text editor but it also helps you write code.
+
+4. What are the steps to develop software using the C language?
+   a. Create a source file
+   b. Write program and save it as .c file.
+   c. Compile code
+   d. run code if there is no error and it will give us .exe file (software).
+
+5. Explore by your own
+    1. What is the latest version of C Language?
+    answer. C17/June 2018.
+
+    2. Who developed C Language?
+    answer. Dennis Ritchie, developer of C language in 1972.
+
+    3. What is the difference between System and Application Software?
+    answer. System software:
+            It is the type of software which is the interface between application software and system.Low level languages are
+            used to write the systen software. System software maintans the system resources and gives the path for application software to 
+            to run. Without system software, system can not run. It is a general purpose software.
+
+            Application Software:
+            It runs as per user request. It runs on the platform which provided by system software. High level languages are used to write             the application software. Its a specific purpose software.
+
+    4. How to convert a number from a decimal number system to a binary number system?
+    answer. We convert the decimal number into binary number by dividing decimal number by base of binary number(2).
+            Ex. 10 
+                we divide 10 by base value(2) of binary number and will get 1010.
